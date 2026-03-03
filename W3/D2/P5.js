@@ -1,4 +1,4 @@
-//Function declaration
+//Function Declaration
 greet("Jeevitha");
 function greet(name) {
    console.log("Hello, "+name+" !");
