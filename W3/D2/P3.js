@@ -1,4 +1,4 @@
-// Logical operators
+// Logical Operators
 console.log("Logical operators");
 let a = true, b = false;
 console.log("a&&b=",a&&b); //Logical AND
