@@ -1,4 +1,4 @@
-//Callback function
+//Callback Function
 //Is a function which is passed an argument to another function
 
 function greetUser(name, Callback){
