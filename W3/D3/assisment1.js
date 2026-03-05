@@ -34,7 +34,7 @@ function tagPassword(password) {
 }
 
 // Test examples
-console.log(tagPassword("abc"));           
-// console.log(tagPassword("abc12345"));      
+//console.log(tagPassword("abc"));           
+console.log(tagPassword("abc12345"));      
 // console.log(tagPassword("abc123456789"));  
 // console.log(tagPassword(12345));
