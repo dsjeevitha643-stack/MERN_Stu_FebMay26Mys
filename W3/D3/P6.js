@@ -1,4 +1,4 @@
-// Nested Objects
+// Nested objects
 
 const student={
     firstname:"Santhosh",
