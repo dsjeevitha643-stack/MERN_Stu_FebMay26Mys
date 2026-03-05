@@ -1,4 +1,4 @@
-//Default parameters
+//Default Parameters
 function product (a=1,b=1){
     return a*b;
 }
