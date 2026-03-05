@@ -1,4 +1,4 @@
-// for loop 
+// for Loop 
 console.log("for loop examples");
 for(let i=0;i<5;i++){ // forward loop
     console.log("i=",i);
