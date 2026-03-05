@@ -1,4 +1,4 @@
-// object Iteration
+// Object Iteration
 const book = {
     title:"Js for newbies",
     author: "veda",
