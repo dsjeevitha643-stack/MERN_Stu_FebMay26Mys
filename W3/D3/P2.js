@@ -1,4 +1,4 @@
-// while loop
+// while Loop
 console.log("while loop ");
 let count=0;
 while(count<5){
