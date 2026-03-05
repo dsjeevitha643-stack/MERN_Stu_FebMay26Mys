@@ -1,5 +1,5 @@
 //Immediately Invoked Function Expression (IIFE)
-//Without parameter
+//Without Parameter
 (function() {
     console.log("Basic IIFE executed Immediately");
 })();
