@@ -1,4 +1,4 @@
-// 1.step size
+// 1.Step size
 for(let i = 0; i<=10;i+=2 ){
     // console.log("i=",i);
 
