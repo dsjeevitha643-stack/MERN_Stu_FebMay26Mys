@@ -1,4 +1,4 @@
-// Arrow  function
+// Arrow  Function
 (args) => {
     //body of the function
 }
