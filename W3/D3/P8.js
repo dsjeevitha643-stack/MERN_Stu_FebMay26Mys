@@ -1,4 +1,4 @@
-//json stringify and parse
+//JSON stringify and parse
 
 const employee = {
     id: 101,
