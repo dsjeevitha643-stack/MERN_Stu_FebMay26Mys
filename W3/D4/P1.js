@@ -1,4 +1,4 @@
-//Arrays basics
+//Arrays Basics
 console.log("Arary basics");
 //creating arrays
 let emptyArray = [];
