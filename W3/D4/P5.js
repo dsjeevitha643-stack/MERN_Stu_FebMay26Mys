@@ -1,4 +1,4 @@
-// Reduce method
+// Reduce Method
 let num = [5,10,15];
 let average = num.reduce((intermediateSum,current) => intermediateSum+current,0) / num.length;
 // console.log(average);
