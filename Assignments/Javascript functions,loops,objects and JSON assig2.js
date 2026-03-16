@@ -29,7 +29,6 @@ function invoice(gstRate = 0.18, ...items) {
         total
     };
 }
-
 const result = invoice(
     0.18,
     { name: "Pen", price: 10, qty: 3 },
