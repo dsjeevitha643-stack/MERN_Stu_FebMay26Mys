@@ -5,6 +5,7 @@ function initProjectFilter(){
         console.log("Project is not found");
         return;
     }
+    
     projectsContainer.innerHTML=" ";
     projectsData.forEach(function(projects){
 
