@@ -9,6 +9,7 @@ function initModal(){
         console.log("Modal elements not found");
         return;
     }
+    
     function openModal(){
         modal.classList.remove("hidden");
 
